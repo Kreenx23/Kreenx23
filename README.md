@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kreenx23
-- 👀 I’m interested in программированием
+- 👀 I’m interested in programming
 - 🌱 I’m currently learning JS
-- 💞️ I’m looking to collaborate on веб разработкой
+- 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me mr.trixezzz@gmail.com
 
 <!---
